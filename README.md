@@ -1,1 +1,1 @@
-# 技术关键点
+﻿﻿﻿﻿﻿# 技术关键点-----------------------------**消息队列*** zkafka* zaroMQ* Redis* RabbitMQ* ActiveMQ**缓存*** Redis* Memcache（缓存分片的思想）**[服务框架](https://www.cnblogs.com/maybo/p/5190012.html)*** 轻量级的`RPC`框架* RESTful服务* 序列化/反序列化框架* protoBuffer* Hession* Burlap* Httpinvoker* WebService**数据库*** B+树索引**负载均衡*** 软负载均衡：LVS、nginx、Apach、Varnish、Haproxy**JVM*** GC* 类加载* HotSpot编译器* 多线程* 并发和锁* IO和NIO 
